@@ -135,7 +135,7 @@ EMAIL_USE_TLS=True
 EMAIL_PORT= 587
 EMAIL_HOST_USER="careconnect.healthtech@gmail.com"
 EMAIL_HOST_PASSWORD="wmvfhmzerbrhwzpb"
-ALLOWED_HOSTS=[]
+
 
 STATIC_URL='/static/'
 MEDIA_ROUTE = BASE_DIR
